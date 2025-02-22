@@ -1,5 +1,6 @@
-# 💻 Hey there, I'm Sai Teja 👋
+# 💻 Hey there, I'm [Your Name] 👋
 
+![Header Image](https://yourwebsite.com/banner.png)
 
 ### 🚀 About Me
 I'm a passionate **Machine Learning & Cloud Computing Enthusiast** with a knack for building impactful projects that solve real-world problems. Whether it's **AI-powered applications**, **cloud architectures**, or **data-driven insights**, I love tackling challenges head-on! 
@@ -37,10 +38,14 @@ I'm a passionate **Machine Learning & Cloud Computing Enthusiast** with a knack 
 - PostgreSQL, MongoDB, DynamoDB
 - Apache Spark, Hadoop, Data Pipelines
 
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
 ### 📫 Let's Connect!
-[![LinkedIn]](https://www.linkedin.com/in/sai-teja-gunda-853454280/)
-[![Instagram]](https://www.instagram.com/sai_teja2409/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaiTeja-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sai-teja-gunda-853454280/)
+[![Instagram](https://img.shields.io/badge/Instagram-SaiTeja-purple?style=flat-square&logo=instagram)](https://www.instagram.com/sai_teja2409/)
 
 👀 Open to collaborations & innovative discussions! Let's build the future together. 🚀
 
