@@ -1,6 +1,5 @@
-# 💻 Hey there, I'm [Your Name] 👋
+# 💻 Hey there, I'm Sai Teja 👋
 
-![Header Image](https://yourwebsite.com/banner.png)
 
 ### 🚀 About Me
 I'm a passionate **Machine Learning & Cloud Computing Enthusiast** with a knack for building impactful projects that solve real-world problems. Whether it's **AI-powered applications**, **cloud architectures**, or **data-driven insights**, I love tackling challenges head-on! 
@@ -11,7 +10,6 @@ I'm a passionate **Machine Learning & Cloud Computing Enthusiast** with a knack 
 - 🛒 Developing a **legacy website for a 25-year-old family-run grocery store**
 - 🎬 Exploring **Movie Success Prediction with Data Mining**
 - 🎙️ Creating **multilingual legal application systems using Bhashini API**
-- 📹 **YouTube Shorts Creator** (Motivational, Storytelling, and Listicles)
 
 ### 🔥 My Current Focus
 - **Multilingual Legal Application System** 📜 (Bhashini API, Speech-to-Text, DynamoDB, Authentication)
@@ -38,10 +36,6 @@ I'm a passionate **Machine Learning & Cloud Computing Enthusiast** with a knack 
 - PostgreSQL, MongoDB, DynamoDB
 - Apache Spark, Hadoop, Data Pipelines
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SaiTeja-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sai-teja-gunda-853454280/)
